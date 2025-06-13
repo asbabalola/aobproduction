@@ -7,7 +7,7 @@ export default function CaptureProPage() {
     <div className="min-h-screen bg-gray-50 text-gray-800 font-sans">
       {/* Header */}
       <header className="bg-black text-white py-6 px-8 flex justify-between items-center">
-        <h1 className="text-2xl font-bold">🎥 CapturePro Media</h1>
+        <h1 className="text-2xl font-bold">🎥 AOB Production</h1>
         <nav className="space-x-6">
           <a href="#services" className="hover:underline">Services</a>
           <a href="#portfolio" className="hover:underline">Portfolio</a>
@@ -79,7 +79,7 @@ export default function CaptureProPage() {
 
       {/* Footer */}
       <footer className="bg-gray-800 text-white text-center py-6">
-        <p>&copy; 2025 CapturePro Media. All rights reserved.</p>
+        <p>&copy; 2025 AOB Production. All rights reserved.</p>
       </footer>
     </div>
   );
